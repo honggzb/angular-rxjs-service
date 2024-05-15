@@ -1,6 +1,6 @@
 import { OnInit, Component, ViewChild, AfterViewInit } from '@angular/core';
 import { ProductService } from './product.service';
-import { ProductListComponent } from './components/product-list/product-list.component';
+import { ProductListComponent } from './product-list/product-list.component';
 import { Product } from './models/product.model';
 
 @Component({
